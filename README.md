@@ -1,6 +1,6 @@
 -Hi, I’m @pantisCalin <br>
--I’m interested in Physics
--I’m currently learning Physics and Programing
--I’m looking to collaborate an learn
--How to reach me caly_pantis98@yahoo.com
--Or on Phone 0740 945 284
+-I’m interested in Physics<br>
+-I’m currently learning Physics and Programing<br>
+-I’m looking to collaborate an learn<br>
+-How to reach me caly_pantis98@yahoo.com<br>
+-Or on Phone 0740 945 284<br>
